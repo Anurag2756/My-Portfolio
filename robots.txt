@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anurag2756.github.io/My-Portfolio/sitemap.xml
