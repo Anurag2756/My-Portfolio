@@ -1,4 +1,4 @@
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)](https://anurag2756.github.io/My-Portfolio/)
 ![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
@@ -73,8 +73,8 @@ No backend or database is used.
 ## Live Website
 
 The website is hosted using GitHub Pages and is accessible at:
+https://anurag2756.github.io/My-Portfolio/
 
- (https://anuragtripathi.github.io/anurag-academic-website/)
 
  
 
