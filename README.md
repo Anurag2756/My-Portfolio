@@ -1,3 +1,9 @@
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Responsive-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![Status](https://img.shields.io/badge/Status-Interview%20Ready-success)
+
 # Personal Academic Website
 
 This repository contains the source code for my personal academic website, developed to present my academic journey, teaching portfolio, leadership roles, and professional contact information.
