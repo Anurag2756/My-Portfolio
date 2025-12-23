@@ -68,9 +68,9 @@ No backend or database is used.
 
 The website is hosted using GitHub Pages and is accessible at:
 
-https://<your-username>.github.io/<repository-name>/
+ (https://anuragtripathi.github.io/anurag-academic-website/)
 
-(Replace with your actual live URL)
+ 
 
 ---
 
